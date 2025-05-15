@@ -2,4 +2,6 @@ Created for engineering project at UWE. Designed to be printable from PETG using
 
 Full frame design for demonstration purposes, intent of the project is to take the hinge mechanism and insert into custom frames as needed.
 
-![image](https://github.com/user-attachments/assets/afd24db8-4532-4873-918f-2a30b82dcb57)
+![Full Frame Demo (Printable)](https://github.com/user-attachments/assets/d8fb44f5-679a-4447-a500-a32c0580d191)
+
+![Drawing 1](https://github.com/user-attachments/assets/b46c2842-24f7-4e66-906c-f9873b2c5a28)
